@@ -66,7 +66,7 @@ On the other hand, the t-SNE is a non-linear dimensionality reduction technique 
 <img src="mnist_pca_tsne.png" width="512" height="347">
 </p>
 
-- Next, we attempt to visualise the more interesting Human Action Recognition (HAR) dataset, which contains embedded inertial sensor data (accelerometer and gyroscope) from a group of 30 volunteers engaging in six different activities, namely "walking", "walking upstairs", "walking downstairs", "sitting", "standing", and "laying". 
+- Next, we attempt to visualise the more interesting Human Action Recognition (HAR) dataset ([source](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones)), which contains embedded inertial sensor data (accelerometer and gyroscope) from a group of 30 volunteers engaging in six different activities, namely "walking", "walking upstairs", "walking downstairs", "sitting", "standing", and "laying". 
 
 - Given the higher complexity of this dataset, both the PCA and t-SNE were unable to properly cluster the various categories, though the latter fared slightly better.
 
